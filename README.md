@@ -1,1 +1,1 @@
-https://clip.github.io/design/
+clip.github.io/Project-AnimeDesign/
